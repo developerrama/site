@@ -6928,8 +6928,9 @@
 
  .pricing-features li p {
    line-height: 1;
-   font-weight: 500;
    margin-bottom: 0;
+   font-size: 0.93rem;
+   font-weight: 500;
  }
 
  .pricing-2 .pricing-features li p {
